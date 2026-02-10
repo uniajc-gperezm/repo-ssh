@@ -92,4 +92,12 @@ Con este comando podemos visualizar que cambios tenemos pendiente por agregar:
 git status
 ```
 
+### Punto 9
+
+Con el siguiente comando creamos una rama nueva a partir de la rama en la que estemos ubicados y nos mueve a la rama creada:
+
+```
+    git checkout -b {nombre-rama-nueva}
+```
+
 NOTA: {Aqui escribre tu nombre y envia el cambio en una rama nueva}
