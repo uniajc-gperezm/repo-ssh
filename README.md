@@ -92,4 +92,4 @@ Con este comando podemos visualizar que cambios tenemos pendiente por agregar:
 git status
 ```
 
-NOTA: {Aqui escribre tu nombre y envia el cambio en una rama nueva}
+NOTA: Daniel-Muñoz
