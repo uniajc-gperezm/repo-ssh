@@ -100,4 +100,4 @@ Con el siguiente comando creamos una rama nueva a partir de la rama en la que es
     git checkout -b {nombre-rama-nueva}
 ```
 
-NOTA: {Aqui escribre tu nombre y envia el cambio en una rama nueva}
+NOTA: Ingrid Mosquera.
